@@ -1,0 +1,4 @@
+:HL["/gabriel-gayoso-app/_next/static/chunks/1m_07emp4g-zd.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"wIFWwLzoIWlCm-zuEFIxm","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

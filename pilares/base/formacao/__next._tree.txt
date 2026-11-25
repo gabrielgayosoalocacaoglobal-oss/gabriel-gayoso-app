@@ -1,0 +1,7 @@
+:HL["/gabriel-gayoso-app/_next/static/chunks/1m_07emp4g-zd.css","style"]
+:HL["/gabriel-gayoso-app/_next/static/media/82450a180bcad83c-s.p.0p-wng2nn8o-p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":"formacao","h":96,"c":"$Q4"}]]
+2:[["children",{"s":"base","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"pilares","h":96,"c":"$Q2"}]]
+0:{"b":"wIFWwLzoIWlCm-zuEFIxm","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
